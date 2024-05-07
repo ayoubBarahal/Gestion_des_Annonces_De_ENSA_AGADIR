@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(Ensapic.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: "Tilt Neon";
+    font-weight: bolder;
+    color: white;
+}
+
+nav {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+nav li {
+    display: inline-block; /* Affichage en ligne */
+    margin-left: 25px; /* Marge entre les éléments */
+}
+
+#signup{
+    margin-left: 600px;
+    width: 90px;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+    border-radius: 15px;
+    border: 1px brown solid;
+    background-color: transparent;
+    font-weight: bolder;
+}
+#login {
+    margin-left:  20px;
+    width: 90px;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+    border-radius: 15px;
+    border: 1px brown solid;
+    background-color: transparent;
+    font-weight: bolder;
+
+}
+
+#signup:hover{
+    background-color: white;
+    color: brown;
+}
+#login:hover{
+    background-color: white;
+    color: brown;
+}
+main {
+    margin: 160px 160px;
+    font-size: 20px;
+
+}
+#b0{
+    width: 170px;
+    height: 50px;
+    border: 1px brown ;
+    background-color: brown;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+#b0:hover{
+    background-color: white;
+    color: brown;
+}
+p:hover{
+    color: brown;
+}
+home:hover{
+    color: white;
+}
