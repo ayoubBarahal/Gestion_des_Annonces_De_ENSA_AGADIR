@@ -49,6 +49,6 @@ Ce projet a été développé par [Votre Nom]. N'hésitez pas à le modifier et 
 
 Les contributions sous forme de pull requests sont les bienvenues. Pour des changements majeurs, veuillez ouvrir d'abord une issue pour discuter de ce que vous souhaitez changer.
 
-## Licence
+## Capture D'écran
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+![home_pic](https://github.com/ayoubBarahal/Gestion_des_Annonces_De_ENSA_AGADIR/assets/157633404/0cb9a5cc-fba4-45d0-af09-aec060e411ff)
