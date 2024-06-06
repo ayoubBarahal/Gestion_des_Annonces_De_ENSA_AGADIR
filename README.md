@@ -53,3 +53,4 @@ Les contributions sous forme de pull requests sont les bienvenues. Pour des chan
 
 ![home_page](https://github.com/ayoubBarahal/Gestion_des_Annonces_De_ENSA_AGADIR/assets/157633404/0cb9a5cc-fba4-45d0-af09-aec060e411ff)
 ![Connexion_page](https://github.com/ayoubBarahal/Gestion_des_Annonces_De_ENSA_AGADIR/assets/157633404/c54c8c47-e036-4400-830a-8fea3cb93099)
+![admin news](https://github.com/ayoubBarahal/Gestion_des_Annonces_De_ENSA_AGADIR/assets/157633404/418b2f8c-cf89-4da5-b491-57d49399b67f)
